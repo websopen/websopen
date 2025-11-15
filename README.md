@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://storage.googleapis.com/prompt-engineering/copilot-sample-images/image_1716314811345.png" alt="Banner personal"/>
+  <img src="https://github.com/websopen/websopen/blob/main/banner-holliday_gosth.jpg?raw=true" alt="Banner de Holliday Gosth"/>
 </p>
 
 <!-- Título y presentación -->
