@@ -6,24 +6,24 @@
 
 <!-- Título y presentación -->
 <h1 align="center">Hola 👋, soy Nico</h1>
-<h3 align="center">Desarrollador & Estudiante Universitario | Entusiasta de la IA, Web Dev y DIY Electrónica</h3>
+<h3 align="center">Investigador Independiente, Desarrollador & Creador de Sistemas | Entusiasta de la IA, Web Dev y DIY Electrónica</h3>
 
 <!-- Sección "Sobre mí" -->
 <p align="left">
   <br>
-  - 🔭 Actualmente estoy construyendo y mejorando mi <strong>Segundo Cerebro (Obsidian + G-Brain)</strong> y explorando el ecosistema de agentes IA.
+  - 🔭 <strong>Arquitecto del Ecosistema Omni:</strong> Construyendo y mejorando mi propio <strong>Segundo Cerebro (Obsidian + G-Brain)</strong> automatizado, local y orquestando agentes autónomos de IA.
   <br>
-  - 🌱 Aprendiendo y aplicando conocimientos en <strong>Sistemas de Información Geográfica (SIG / QGIS)</strong> en la UNAHUR y desarrollando proyectos web/SaaS.
+  - 🌱 <strong>Estudios y Desarrollo:</strong> Aplicando conocimientos en <strong>Sistemas de Información Geográfica (SIG / QGIS)</strong> en la UNAHUR y desarrollando proyectos web/SaaS.
   <br>
-  - 🛠️ Me apasionan los proyectos físicos (DIY): armando, reparando y optimizando <strong>bicicletas eléctricas 2WD (motores hub, baterías de litio, controladores)</strong>.
+  - 🛠️ <strong>Ingeniería DIY & Movilidad Eléctrica:</strong> Me apasionan los proyectos físicos, armando, reparando y optimizando <strong>bicicletas eléctricas 2WD (motores hub, baterías de litio, controladores)</strong>.
   <br>
-  - 👯 Busco colaborar en proyectos open source relacionados con <strong>Inteligencia Artificial, herramientas de productividad (PKM) y movilidad eléctrica</strong>.
+  - 👯 <strong>Colaboración:</strong> Abierto a contribuir en proyectos open source relacionados con <strong>Inteligencia Artificial local, herramientas de productividad (PKM) y movilidad eléctrica</strong>.
   <br>
-  - 💬 Pregúntame sobre <strong>automatización con LLMs (Claude, Gemini), gestión de conocimiento en Obsidian, y hardware/electrónica</strong>.
+  - 💬 <strong>Pregúntame sobre:</strong> <strong>Automatización con LLMs (Claude, Gemini), gestión de conocimiento estructurado en Obsidian, y hardware/electrónica</strong>.
   <br>
   - 📫 Cómo contactarme: <strong>[tu-email@ejemplo.com]</strong>.
   <br>
-  - 😄 Un dato curioso sobre mí: Organizo toda mi vida tecnológica usando la filosofía de "un solo grafo" (Karpathy-top).
+  - 😄 Un dato curioso sobre mí: Organizo toda mi vida tecnológica, ideas y proyectos usando la estricta filosofía de <strong>"un solo grafo" (Karpathy-top)</strong>.
 </p>
 
 ---
