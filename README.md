@@ -4,95 +4,31 @@
 </p>
 
 <!-- Título y presentación -->
-<h1 align="center">Hola ☕ </h1>
-<h3 align="center">Investigador Independiente, Desarrollador & Creador de Sistemas | Entusiasta de la IA, Web Dev y DIY Electrónica</h3>
-
-<!-- Sección "Sobre mí" -->
-<p align="left">
-  <br>
-  - 🔭 <strong>Arquitecto del Ecosistema Omni:</strong> Construyendo y mejorando mi propio <strong>Segundo Cerebro (Obsidian + G-Brain)</strong> automatizado, local y orquestando agentes autónomos de IA. *(Nota: La mayoría de mi código e infraestructura crítica vive de forma privada en organizaciones satélite).*
-  <br>
-  - 🌱 <strong>Estudios y Desarrollo:</strong> Aplicando conocimientos en <strong>Sistemas de Información Geográfica (SIG / QGIS)</strong> en la UNAHUR y desarrollando proyectos web/SaaS.
-  <br>
-  - 🛠️ <strong>Ingeniería DIY & Movilidad Eléctrica:</strong> Me apasionan los proyectos físicos, armando, reparando y optimizando <strong>bicicletas eléctricas 2WD (motores hub, baterías de litio, controladores)</strong>.
-  <br>
-  - 👯 <strong>Colaboración:</strong> Abierto a contribuir en proyectos open source relacionados con <strong>Inteligencia Artificial local, herramientas de productividad (PKM) y movilidad eléctrica</strong>.
-  <br>
-  - 💬 <strong>Pregúntame sobre:</strong> <strong>Automatización con LLMs (Claude, Gemini), gestión de conocimiento estructurado en Obsidian, y hardware/electrónica</strong>.
-  <br>
-  - 😄 Un dato curioso sobre mí: Organizo toda mi vida tecnológica, ideas y proyectos usando la estricta filosofía de <strong>"un solo grafo" (Karpathy-top)</strong>.
-</p>
+<h1 align="center">Hola ☕</h1>
 
 ---
 
-<!-- Habilidades y Tecnologías -->
-<h3 align="left">🛠️ Mis Habilidades y Herramientas</h3>
+### 🏛️ Estructura de mi Ecosistema (Organizaciones)
 
-<p align="left">
-  <strong>Desarrollo y Scripting</strong><br><br>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node.js"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
-  </a>
-</p>
+Dado que desarrollo infraestructura tecnológica compleja, he dividido mi código en organizaciones satélite para mantener la soberanía, la seguridad y separar entornos.
 
-<p align="left">
-  <strong>Bases de Datos e Infraestructura</strong><br><br>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" title="SQLite"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" title="Docker"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40" title="Ubuntu Linux"/>
-  </a>
-</p>
-
-<p align="left">
-  <strong>Herramientas, IA y Ecosistema</strong><br><br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
-  </a>
-  <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" alt="obsidian" width="40" height="40" title="Obsidian PKM"/>
-  </a>
-  <a href="https://qgis.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="qgis" width="40" height="40" title="QGIS"/>
-  </a>
-</p>
+| Organización | Propósito Core | Estado de Sincronización |
+| :--- | :--- | :--- |
+| **`@omni-system-237`** | **Sistemas Integrados:** El núcleo principal de mi Segundo Cerebro y agentes IA. Aquí vive toda la infraestructura y herramientas que están activamente adaptadas a mi sistema personal soberano. | 🛑 **Manual** (Auditado para no romper dependencias). |
+| **`@coop-system-237`** | **Entorno Colaborativo:** Espacio dedicado a proyectos compartidos y trabajo en equipo. Sistemas que interactúan con otros humanos o herramientas fuera de mi infraestructura estrictamente personal. | 🛑 **Manual** (Control de calidad). |
+| **`@backup-system-237`** | **Búnker y Cuarentena:** Refugio privado para copias de seguridad y proyectos open source que aún NO están integrados a mi ecosistema. Funcionan como un archivo seguro de herramientas de terceros. | 🟢 **Automática** (Mantiene la versión original al día). |
 
 ---
 
-<!-- Estadísticas de GitHub -->
-<h3 align="left">📊 Mis Estadísticas de GitHub</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gunt3r27&show_icons=true&locale=es&theme=radical&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Estadísticas de GitHub" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunt3r27&show_icons=true&locale=es&layout=compact&theme=radical&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Lenguajes más usados" />
-</p>
+### 📖 Glosario y Filosofía de Arquitectura
 
----
+Para entender por qué mi ecosistema está estructurado de esta forma, aquí explico algunos conceptos clave sobre cómo opero:
 
-<!-- Redes Sociales y Contacto -->
-<h3 align="left">🔗 Conecta conmigo</h3>
-<p align="left">
-  <!-- Reemplaza los enlaces si deseas -->
-  <a href="https://linkedin.com/in/[TU-USUARIO-DE-LINKEDIN]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="Perfil de LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/[TU-USUARIO-DE-TWITTER]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/twitter.svg" alt="Perfil de Twitter" height="30" width="40" />
-  </a>
-</p>
+* **¿Qué es un Fork y para qué sirve?**
+  Es una bifurcación o copia independiente de un proyecto ajeno. Lo usamos para tomar el código base de una herramienta creada por un tercero y modificarla profundamente para que encaje y funcione dentro de nuestra propia arquitectura, sin depender de los cambios que haga el creador original.
+* **¿Por qué usamos Organizaciones en lugar de usar Tags o Etiquetas?**
+  Si mezcláramos herramientas vitales, con proyectos de prueba, con copias de seguridad crudas en una sola lista, sería un caos inmanejable. Las organizaciones nos permiten **aislar entornos**, tener políticas de seguridad distintas para cada uno y crear "cajas" lógicas impenetrables. Es una arquitectura de nivel empresarial aplicada a un perfil personal.
+* **¿Qué significa "Upstream"?**
+  Es el repositorio del creador original de una herramienta. Nosotros "observamos" al upstream para ver qué novedades han programado, y decidimos si queremos traerlas a nuestras copias privadas.
+* **¿Por qué la sincronización es Manual en lugar de Automática?**
+  En sistemas integrados (`omni-system` y `coop-system`), si el creador original rompe algo en su código y nosotros lo actualizamos automáticamente, colapsaría todo nuestro ecosistema. Por seguridad, siempre "descargamos" los cambios, los revisamos, y si son seguros, los fusionamos manualmente. Solo los respaldos crudos (`backup-system`) se actualizan solos.
