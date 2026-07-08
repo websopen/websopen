@@ -1,17 +1,16 @@
 <!-- Banner -->
 <p align="center">
-  <!-- Puedes reemplazar este banner con una imagen tuya, de tu lab, o un paisaje generativo de IA -->
   <img src="https://github.com/websopen/websopen/blob/main/banner-holliday_gosth.jpg?raw=true" alt="Banner de Nico"/>
 </p>
 
 <!-- Título y presentación -->
-<h1 align="center">Hola 👋, soy Nico</h1>
+<h1 align="center">Hola 👋 ¡Tómate un ☕ y ponte cómodo!</h1>
 <h3 align="center">Investigador Independiente, Desarrollador & Creador de Sistemas | Entusiasta de la IA, Web Dev y DIY Electrónica</h3>
 
 <!-- Sección "Sobre mí" -->
 <p align="left">
   <br>
-  - 🔭 <strong>Arquitecto del Ecosistema Omni:</strong> Construyendo y mejorando mi propio <strong>Segundo Cerebro (Obsidian + G-Brain)</strong> automatizado, local y orquestando agentes autónomos de IA.
+  - 🔭 <strong>Arquitecto del Ecosistema Omni:</strong> Construyendo y mejorando mi propio <strong>Segundo Cerebro (Obsidian + G-Brain)</strong> automatizado, local y orquestando agentes autónomos de IA. *(Nota: La mayoría de mi código e infraestructura crítica vive de forma privada en organizaciones satélite).*
   <br>
   - 🌱 <strong>Estudios y Desarrollo:</strong> Aplicando conocimientos en <strong>Sistemas de Información Geográfica (SIG / QGIS)</strong> en la UNAHUR y desarrollando proyectos web/SaaS.
   <br>
@@ -20,8 +19,6 @@
   - 👯 <strong>Colaboración:</strong> Abierto a contribuir en proyectos open source relacionados con <strong>Inteligencia Artificial local, herramientas de productividad (PKM) y movilidad eléctrica</strong>.
   <br>
   - 💬 <strong>Pregúntame sobre:</strong> <strong>Automatización con LLMs (Claude, Gemini), gestión de conocimiento estructurado en Obsidian, y hardware/electrónica</strong>.
-  <br>
-  - 📫 Cómo contactarme: <strong>[tu-email@ejemplo.com]</strong>.
   <br>
   - 😄 Un dato curioso sobre mí: Organizo toda mi vida tecnológica, ideas y proyectos usando la estricta filosofía de <strong>"un solo grafo" (Karpathy-top)</strong>.
 </p>
@@ -69,11 +66,9 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
   </a>
   <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
-    <!-- Obsidian logo -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" alt="obsidian" width="40" height="40" title="Obsidian PKM"/>
   </a>
   <a href="https://qgis.org/" target="_blank" rel="noreferrer">
-    <!-- QGIS logo -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="qgis" width="40" height="40" title="QGIS"/>
   </a>
 </p>
@@ -83,10 +78,9 @@
 <!-- Estadísticas de GitHub -->
 <h3 align="left">📊 Mis Estadísticas de GitHub</h3>
 <p align="center">
-  <!-- NOTA: Cambia [TU-USUARIO-DE-GITHUB] por tu nombre de usuario real de GitHub -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO-DE-GITHUB]&show_icons=true&locale=es&theme=radical&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Estadísticas de GitHub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gunt3r27&show_icons=true&locale=es&theme=radical&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Estadísticas de GitHub" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[TU-USUARIO-DE-GITHUB]&show_icons=true&locale=es&layout=compact&theme=radical&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Lenguajes más usados" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunt3r27&show_icons=true&locale=es&layout=compact&theme=radical&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -94,7 +88,7 @@
 <!-- Redes Sociales y Contacto -->
 <h3 align="left">🔗 Conecta conmigo</h3>
 <p align="left">
-  <!-- NOTA: Reemplaza los corchetes con tus usuarios reales y borra las redes que no uses -->
+  <!-- Reemplaza los enlaces si deseas -->
   <a href="https://linkedin.com/in/[TU-USUARIO-DE-LINKEDIN]" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="Perfil de LinkedIn" height="30" width="40" />
   </a>
