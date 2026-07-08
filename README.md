@@ -4,7 +4,7 @@
 </p>
 
 <!-- Título y presentación -->
-<h1 align="center">Hola 👋 ¡Tómate un ☕ y ponte cómodo!</h1>
+<h1 align="center">Hola ☕ </h1>
 <h3 align="center">Investigador Independiente, Desarrollador & Creador de Sistemas | Entusiasta de la IA, Web Dev y DIY Electrónica</h3>
 
 <!-- Sección "Sobre mí" -->
